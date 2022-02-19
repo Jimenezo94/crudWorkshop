@@ -1,0 +1,84 @@
+{
+    "registros": [
+        {
+            "id": 1,
+            "nombre": "Juan Bermudez",
+            "correo": "Bermudez2@gmail.com",
+            "contraseña": "123456"
+          
+        },
+        {
+            "id": 2,
+            "nombre": "Andres perez",
+            "correo": "perez@gmail.com",
+            "contraseña": "123456"
+           
+        },
+        {
+            "id": 3,
+            "nombre": "Matilde aria",
+            "correo": "matilde@gmail.com",
+            "contraseña": "123456"
+           
+        }
+    ],
+    "Preguntas":[
+        {
+            "question": "¿Qué etiqueta es semánticamente correcta para el contenido principal?",
+            "a" :"main",
+            "b" :"section",
+            "c" :"header",
+            "correct": "main"
+        },
+        {
+            "question": "¿Qué es HTML?",
+            "a" :"HyperText Markup",
+            "b" :"HiperMail",
+            "c" :"HyperText Markup Language",
+            "correct": "HyperText Markup Language"
+        },
+     {
+        "question": "¿Qué clase de lenguaje es HTML?",
+        "a" :"Programación",
+        "b" :"Marcado",
+        "c" :"Datos",
+        "correct": "Marcado"
+     },
+     {
+        "question": "¿La etiqueta P es para?",
+        "a" :"Titulos",
+        "b" :"Parrafos",
+        "c" :"Iconos",
+        "correct": "Parrafos"
+     }
+       
+    ],
+    "estadistica":[
+        {
+            "contestadas" :0 ,
+            "correctas" :0,
+            "incorrectas" :0,
+            "idUser": 1
+         
+        },   
+        {
+            "contestadas" :0 ,
+            "correctas" :0,
+            "incorrectas" :0,
+            "idUser": 2
+         
+        },
+        {
+            "contestadas" :0 ,
+            "correctas" :0,
+            "incorrectas" :0,
+            "idUser": 3
+         
+        }
+       
+       
+       
+       
+    ]
+
+}
